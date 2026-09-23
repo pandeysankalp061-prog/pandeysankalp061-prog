@@ -70,7 +70,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sankalp Pandey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeysankalp061@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-pandey-aa2632347/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeysankalp061@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
